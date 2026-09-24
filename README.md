@@ -19,3 +19,7 @@ This is the front door for OpenLint's community — the place to ask questions, 
 - **Discussions** — coming soon on this repo, for longer-form conversation.
 
 Issues about the specification itself are welcome here too while the spec repo migrates; we'll route them to the right place as the org fills out.
+
+## Code of Conduct
+
+Everyone taking part in OpenLint's repositories, discussions, meetings and events is expected to follow the [OpenLint Code of Conduct](https://github.com/openlint/.github/blob/main/CODE_OF_CONDUCT.md). To report a concern, email [conduct@openlint.org](mailto:conduct@openlint.org).
