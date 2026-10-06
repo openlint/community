@@ -1,0 +1,13 @@
+# Who maintains what in OpenLint. Changes go through pull requests.
+# areas: specification, toolbox, administration
+steward: kinlane
+
+maintainers:
+  - github: kinlane
+    name: Kin Lane
+    areas: [administration]
+  # Add people only after they have agreed, in public, to be listed.
+  # - github: <handle>
+  #   name: <name>
+  #   areas: [specification, toolbox]
+  #   employer: <optional, used for the employer-diversity rule>
