@@ -9,7 +9,7 @@ This is the front door for OpenLint's community — the place to ask questions, 
 **OpenLint is an open specification and toolbox for linting API artifacts** — rulesets, conformance, and governance for OpenAPI and the formats around it. It is a community fork of Spectral, developed and stewarded in the open as an [API Commons](https://apicommons.org) effort. The name was chosen by [open community vote](https://github.com/api-commons/spotlight-spec/issues/39) in September 2026, and the project is deliberately building three decoupled things: a normative **specification** rulesets can conform to, the **toolbox** that applies it (library, CLI, CI gate, IDE integration), and the open **community** that carries both.
 
 - 🌐 Website: [openlint.org](https://openlint.org)
-- 📋 Working spec: [api-commons/spotlight-spec](https://github.com/api-commons/spotlight-spec) — migrating into this org
+- 📋 Specification: [openlint/spec](https://github.com/openlint/spec)
 - 🗺️ Roadmap: being drafted now — first draft late September 2026
 
 ## Getting support
