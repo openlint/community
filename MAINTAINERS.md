@@ -14,7 +14,7 @@ Maintainers have admin access on the [OpenLint GitHub organization](https://gith
 
 ## Contributors
 
-Everyone who has attended an OpenLint office hours, including the weekly calls held before the project had its name.
+Everyone who has joined the OpenLint office hours, including the weekly calls held before the project had its name.
 
 | Name | GitHub |
 | -- | -- |
@@ -23,6 +23,7 @@ Everyone who has attended an OpenLint office hours, including the weekly calls h
 | Frank Kilcommins | [@frankkilcommins](https://github.com/frankkilcommins) |
 | Joost Farla | [@joostfarla](https://github.com/joostfarla) |
 | Matthias Keckl | [@matthyk](https://github.com/matthyk) |
+| Miguel Quintero | [@miqui](https://github.com/miqui) |
 | Mike Kistler | [@mikekistler](https://github.com/mikekistler) |
 | Miriam Greis | [@miriamgreis](https://github.com/miriamgreis) |
 | Ricky Moorhouse | [@rickymoorhouse](https://github.com/rickymoorhouse) |
