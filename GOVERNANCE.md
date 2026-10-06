@@ -53,4 +53,4 @@ By pull request, with the 14-day window used for specification changes.
 
 ---
 
-*Adapted from the [Spotlight governance proposal](https://github.com/api-commons/spotlight-spec/blob/main/governance.md), which draws on the governance of [OpenAPI](https://github.com/OAI/OpenAPI-Specification/blob/main/GOVERNANCE.md), [AsyncAPI](https://github.com/asyncapi/community/blob/master/docs/020-governance-and-policies/GOVERNANCE.md) and [JSON Schema](https://github.com/json-schema-org/community/blob/main/GOVERNANCE.md).*
+*Adapted from the [OpenLint community's earlier governance proposal](https://github.com/api-commons/spotlight-spec/blob/main/governance.md), which draws on the governance of [OpenAPI](https://github.com/OAI/OpenAPI-Specification/blob/main/GOVERNANCE.md), [AsyncAPI](https://github.com/asyncapi/community/blob/master/docs/020-governance-and-policies/GOVERNANCE.md) and [JSON Schema](https://github.com/json-schema-org/community/blob/main/GOVERNANCE.md).*
