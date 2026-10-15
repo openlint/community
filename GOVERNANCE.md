@@ -31,7 +31,15 @@ People can maintain one area, or several.
 
 **Discussion → issue → pull request.** Ideas start as a [discussion](https://github.com/orgs/openlint/discussions). Once there are people who care about an idea, it becomes issues. The work happens in pull requests.
 
-**Lazy consensus.** A proposal stays open for at least 7 days. Silence is agreement. Any maintainer can ask for the window to be extended once. Changes to the specification get 14 days.
+**Lazy consensus.** A proposal stays open for a minimum window, sized to its impact. Silence is agreement. Any maintainer can ask for the window to be extended once.
+
+| Change | Window |
+| -- | -- |
+| Minor: docs, fixes, tooling | 7 days |
+| Changes to the specification | 14 days |
+| Breaking changes to the format or to lint results | 30 days, with known implementers notified directly |
+
+What counts as breaking is being defined in [discussion #12](https://github.com/orgs/openlint/discussions/12).
 
 **Two maintainers.** Once an area has two maintainers, no change in that area merges on one person's approval. Each repository sets its own review rules within this.
 
