@@ -1,0 +1,13 @@
+# Who maintains what in OpenLint. Maintainers have admin access on the GitHub org.
+# Changes go through pull requests. Areas: specification, toolbox, administration
+steward: kinlane
+
+maintainers:
+  - github: kinlane
+    name: Kin Lane
+  - github: philsturgeon
+    name: Phil Sturgeon
+  - github: P0lip
+    name: Jakub Rożek
+  - github: jerzyn
+    name: Andrzej Jarzyna
