@@ -11,7 +11,8 @@ Maintainers have admin access on the [OpenLint GitHub organization](https://gith
 | Kin Lane | [@kinlane](https://github.com/kinlane) |
 | Phil Sturgeon | [@philsturgeon](https://github.com/philsturgeon) |
 | Jakub Rożek | [@P0lip](https://github.com/P0lip) |
-| Miguel Quintero | [@miqui](https://github.com/miqui) |
+| Andrzej Jarzyna | [@jerzyn](https://github.com/jerzyn) |
+| Joost Farla | [@joostfarla](https://github.com/joostfarla) |
 
 ## Contributors
 
@@ -19,11 +20,10 @@ Everyone who has joined the OpenLint office hours, including the weekly calls he
 
 | Name | GitHub |
 | -- | -- |
-| Andrzej Jarzyna | [@jerzyn](https://github.com/jerzyn) |
 | Dimitri van Hees | [@dvh](https://github.com/dvh) |
 | Frank Kilcommins | [@frankkilcommins](https://github.com/frankkilcommins) |
-| Joost Farla | [@joostfarla](https://github.com/joostfarla) |
 | Matthias Keckl | [@matthyk](https://github.com/matthyk) |
+| Miguel Quintero | [@miqui](https://github.com/miqui) |
 | Mike Kistler | [@mikekistler](https://github.com/mikekistler) |
 | Miriam Greis | [@miriamgreis](https://github.com/miriamgreis) |
 | Ricky Moorhouse | [@rickymoorhouse](https://github.com/rickymoorhouse) |
