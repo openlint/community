@@ -6,19 +6,22 @@ This is the front door for OpenLint's community — the place to ask questions, 
 
 ## What is OpenLint?
 
-**OpenLint is an open specification and toolbox for linting API artifacts** — rulesets, conformance, and governance for OpenAPI and the formats around it. It is a community fork of Spectral, developed and stewarded in the open as an [API Commons](https://apicommons.org) effort. The name was chosen by [open community vote](https://github.com/api-commons/spotlight-spec/issues/39) in September 2026, and the project is deliberately building three decoupled things: a normative **specification** rulesets can conform to, the **toolbox** that applies it (library, CLI, CI gate, IDE integration), and the open **community** that carries both.
+An open specification and toolbox for linting API artifacts, stewarded in the open by its community. The [org profile](https://github.com/openlint) and [openlint.org](https://openlint.org) say more.
 
 - 🌐 Website: [openlint.org](https://openlint.org)
-- 📋 Specification: [openlint/spec](https://github.com/openlint/spec)
-- 🗺️ Roadmap: being drafted now — first draft late September 2026
+- 📋 Specification: [spec.openlint.org](https://spec.openlint.org), the working draft; source in [openlint/spec](https://github.com/openlint/spec)
+- 🧰 Toolbox: [openlint/openlint](https://github.com/openlint/openlint), the reference implementation
+- 🗺️ Roadmap: [openlint.org/roadmap](https://openlint.org/roadmap/)
+- 🗓️ Office hours: [openlint.org/meetings/office-hours](https://openlint.org/meetings/office-hours/)
+- 🏛️ Governance: [GOVERNANCE.md](GOVERNANCE.md) and [MAINTAINERS.md](MAINTAINERS.md)
 
 ## Getting support
 
-- **[Open an issue](https://github.com/openlint/community/issues)** in this repo — questions, problems, ideas, and anything that doesn't yet have an obvious home all belong here. There is no bad first issue.
-- **Email** — [info@openlint.org](mailto:info@openlint.org) for anything better suited to a private channel.
-- **Discussions** — coming soon on this repo, for longer-form conversation.
+- **[Open an issue](https://github.com/openlint/community/issues)** in this repo: questions, problems, and anything that doesn't yet have an obvious home all belong here. There is no bad first issue.
+- **Email**: [info@openlint.org](mailto:info@openlint.org) for anything better suited to a private channel.
+- **[Discussions](https://github.com/orgs/openlint/discussions)**: ideas and longer conversations, for the whole org.
 
-Issues about the specification itself are welcome here too while the spec repo migrates; we'll route them to the right place as the org fills out.
+Issues about the specification itself go to [openlint/spec](https://github.com/openlint/spec/issues).
 
 ## Code of Conduct
 
