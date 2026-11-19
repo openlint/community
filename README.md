@@ -13,6 +13,7 @@ An open specification and toolbox for linting API artifacts, stewarded in the op
 - 🧰 Toolbox: [openlint/openlint](https://github.com/openlint/openlint), the reference implementation
 - 🗺️ Roadmap: [openlint.org/roadmap](https://openlint.org/roadmap/)
 - 🗓️ Office hours: [openlint.org/meetings/office-hours](https://openlint.org/meetings/office-hours/)
+- 📬 Newsletter: [usecommune.com/n/openlint](https://usecommune.com/n/openlint)
 - 🏛️ Governance: [GOVERNANCE.md](GOVERNANCE.md) and [MAINTAINERS.md](MAINTAINERS.md)
 
 ## Getting support
