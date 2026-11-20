@@ -22,7 +22,6 @@ An open specification and toolbox for linting API artifacts, stewarded in the op
 - **Email**: [info@openlint.org](mailto:info@openlint.org) for anything better suited to a private channel.
 - **[Discussions](https://github.com/orgs/openlint/discussions)**: ideas and longer conversations, for the whole org.
 - **[Slack](https://join.slack.com/t/openlintworkspace/shared_invite/zt-4hgoweggz-~h3UNfIyoy~pYUgQ_ivwow)**: quick questions and chat between office hours. Decisions still land in discussions, issues and pull requests.
-- **[Slack](https://join.slack.com/t/openlintworkspace/shared_invite/zt-4hgoweggz-~h3UNfIyoy~pYUgQ_ivwow)**: quick questions and chat between office hours. Decisions still land in discussions, issues and pull requests.
 
 Issues about the specification itself go to [openlint/spec](https://github.com/openlint/spec/issues).
 
